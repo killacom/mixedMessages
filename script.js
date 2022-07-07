@@ -1,1 +1,1 @@
-console.log(hello world)
+console.log("Codecademy Mixed Messages Project");
