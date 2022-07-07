@@ -1,4 +1,4 @@
-#Mixed Messages Project for Codecademy
+# Mixed Messages Project for Codecademy
 by Thomas Porter
 July 2022
 ### The quick brown fox jumped over the lazy dog
